@@ -1,0 +1,4 @@
+213JMT09 rebai ramzi resto_très_bien 31 12 0 1 0
+213JMT23 sfaxi souhaib lit_mal 28 10 2021 0 0
+213JMT65 nour dinal lumière_cassée 4 12 2021 0 0
+213JME56 amine khayro resto_trop_retard 25 12 2021 1 0

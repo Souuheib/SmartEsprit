@@ -1,0 +1,5 @@
+def1 Pression_d'eau 25 0 1 
+def2 Pression_d'eau 29 1 0 
+nrm2 Température 80 0 2 
+nrm3 Fumée 33 0 1 
+nrm1 Température 34 0 3 
